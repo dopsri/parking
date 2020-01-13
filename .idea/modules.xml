@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/parking.iml" filepath="$PROJECT_DIR$/parking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parking-domain/parkingdomain.iml" filepath="$PROJECT_DIR$/parking-domain/parkingdomain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parking-repository/parkingrepository.iml" filepath="$PROJECT_DIR$/parking-repository/parkingrepository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parking-service/parkingservice.iml" filepath="$PROJECT_DIR$/parking-service/parkingservice.iml" />
+    </modules>
+  </component>
+</project>
